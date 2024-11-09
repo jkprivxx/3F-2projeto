@@ -60,6 +60,9 @@ span{
     color: var(--cor-secundaria);
     font-weight: bold;
 }
+.grafico{ 
+    margin-top: 5rem;
+}
 
 .graficos-container{
     margin: 5rem;
